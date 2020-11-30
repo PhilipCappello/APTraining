@@ -3,7 +3,7 @@ Developed with a group of 5 students during the Steacie Library Hackfest 2020.
 
 Using the Tensorflow open-source BodyPix library, APTraining provides real-time feedback while the user is performing an overhead press exercise. APTraining provides feedback via audio queues and text on the display. 
 
-##Features 
+## Features 
 1. Repetition Counter 
 For each complete repetition done properly, increment the repetition counter on the screen. 
 
